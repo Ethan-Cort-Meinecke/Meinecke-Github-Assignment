@@ -8,3 +8,6 @@ Assigment three was a practice in implementing variables, trigonometry functions
 Assignment six was a practive in using the push() and pop() functions to create multiple copies of assets, as well as implementing translate and looping functions to said copies.
 
 Assignment ten was a practice of implementing and playing video files within a web browser.
+
+
+This class is available from the University of Wisconsin Whitewater. You can view the main site [here](http://www.uww.edu/)
