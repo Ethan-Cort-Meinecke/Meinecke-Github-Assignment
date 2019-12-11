@@ -10,7 +10,7 @@ Assignment six was a practive in using the push() and pop() functions to create 
 Assignment ten was a practice of implementing and playing video files within a web browser.
 
 
-These projects can be viewed in a repository that's linked [here](https://github.com/Ethan-Cort-Meinecke/Meinecke-Github-Assignment.git) 
+These projects can be viewed in a repository that's linked [here.](https://github.com/Ethan-Cort-Meinecke/Meinecke-Github-Assignment.git) 
 
 
-This class is available from the University of Wisconsin Whitewater. You can view the main site [here](http://www.uww.edu/)
+This class is available at the University of Wisconsin Whitewater. You can view the main site [here.](http://www.uww.edu/)
